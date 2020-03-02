@@ -8,4 +8,4 @@ git clone https://github.com/mikeshihyaolin/mikelin_cv.git
 ```
 2. Compile pdf file via "Main.tex"
 
-![](mike.lin_cv.pdf)
+![](mike_lin_cv.pdf)
